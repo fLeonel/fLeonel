@@ -45,9 +45,7 @@
 <!--Contactame-->
 <div align="center">
 <h2>Contáctame 🤝</h2>
-<p 
-📬 **dr04860@gmail.com**
-/>
+<h4 align="left"📬 **dr04860@gmail.com** />
 </div>
 
 
