@@ -10,12 +10,8 @@
     <img src="https://slackmojis.com/emojis/60794-alien/download" width="30" />
   </h2>
   <!-- Quien soy?-->
-  <h3 align="center">
-      Soy un joven desarrollador fullstack Guatemalteco que cada día aprende más sobre nuevas tecnologias, soy un emprendedor y aunque aun no soy millonario,
-    estoy en el proceso de serlo. 😄
-  </h3>
-  <h3 align="center">
-      Tengo 5 años de experiencia en el mundo de la programación, he trabajado como freelancer en algunos proyectos que puedes encontrar en mi perfil. 🧑‍💻
+  <h3 align="justify">     
+Soy un joven guatemalteco apasionado por la tecnología y el desarrollo de software. Como desarrollador fullstack con más de 3 años de experiencia en el       rubro, me enorgullezco de ser proactivo y eficiente en cada proyecto en el que me embarco. Aunque aún soy un joven aprendiz de la vida, estoy constantemente buscando           oportunidades para crecer y aprender. Además, me considero un emprendedor en ciernes, aunque debo admitir que todavía no he llegado al nivel de "rico" como muchos sueñan.      Pero, ¿quién sabe? ¡Quizás mi próximo proyecto sea el que me haga millonario! 😃💼💰 ¡Gracias por visitar mi perfil y explorar mis proyectos!
   </h3>
   <p align="left">👨‍🎓 Estudio Ingenieria en sistemas en la Universidad San Pablo de Guatemala.</p>
   <p align="left">👨‍💻 Trabajo como técnico en sistemas.</p>
@@ -45,7 +41,7 @@
 <!--Contactame-->
 <div align="center">
 <h2>Contáctame 🤝</h2>
-<h4 align="left"📬 **dr04860@gmail.com** />
+<h4 align="left"><a src="mailto:dr04860@gmail.com">dr04860@gmail.com</a><h4/>
 </div>
 
 
