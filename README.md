@@ -22,7 +22,7 @@ Soy un joven guatemalteco apasionado por la tecnología y el desarrollo de softw
 <div align="center">
   <h1>Técnologias que conozco?</h1>
   <a>
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,nodejs,react,nextjs,tailwind,mysql,postman,py"/>
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,nodejs,react,nextjs,tailwind,mysql,postman,py,flutter,dart"/>
   </a>
 </div>
 <!--Sistemas Operativos!-->
