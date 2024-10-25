@@ -11,7 +11,11 @@
   </h2>
   <!-- Quien soy?-->
   <h3 align="justify">     
-Soy un joven guatemalteco apasionado por la tecnología y el desarrollo de software. Como desarrollador fullstack con más de 3 años de experiencia en el       rubro, me enorgullezco de ser proactivo y eficiente en cada proyecto en el que me embarco. Aunque aún soy un joven aprendiz de la vida, estoy constantemente buscando           oportunidades para crecer y aprender. Además, me considero un emprendedor en ciernes, aunque debo admitir que todavía no he llegado al nivel de "rico" como muchos sueñan.      Pero, ¿quién sabe? ¡Quizás mi próximo proyecto sea el que me haga millonario! 😃💼💰 ¡Gracias por visitar mi perfil y explorar mis proyectos!
+¡Hola! Soy un joven guatemalteco apasionado por la tecnología y el desarrollo de software. Como desarrollador fullstack con más de 3 años de experiencia, me caracterizo por ser proactivo, eficiente y siempre comprometido con entregar soluciones de calidad en cada proyecto que emprendo.
+
+Estoy en un constante aprendizaje, explorando nuevas oportunidades para crecer tanto personal como profesionalmente. Me considero también un emprendedor en desarrollo, soñador pero con los pies en la tierra. Aún no he alcanzado el famoso estatus de "rico", pero, ¿quién sabe? Quizás mi próximo proyecto sea el que haga despegar mi carrera. 😄💼💰
+
+Gracias por visitar mi perfil y tomarte el tiempo para explorar mis proyectos. Estoy siempre abierto a colaboraciones, ideas y nuevos desafíos. ¡Nos vemos en el camino del desarrollo! 🚀
   </h3>
   <p align="left">👨‍🎓 Estudio Ingenieria en sistemas en la Universidad San Pablo de Guatemala.</p>
   <p align="left">👨‍💻 Trabajo como técnico en sistemas.</p>
